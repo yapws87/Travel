@@ -41,13 +41,21 @@
 
 * 21:30 : Reach Tenshin Bus Station
   
-  <img src="images/hotel_2.png"  width="300"/>
+  <img src="images/hotel_2.png"  width="500"/>
   
-
+* 22:00 : Food Hunting at Nakasu Area  
   
 
 ### Day 3
-
+* 08:00 : Breakie Breakie
+* 09:00 : Fukuoka Central Post Office
+* 09:30 : Tenjin Central Park
+* 11:30 : Ohori Park
+* 13:00 : Canal City
+* 13:30 : Lunch+Dessert at Canal City
+* 15:00 : Hanging Around Tenjin Area
+* 17:30 : Heading to airport
+  
 
 ## Foods
 ## Things to do
